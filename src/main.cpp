@@ -53,7 +53,7 @@ int main(int argc, char* args[])
 
 		}
 
-		const float alpha = acumulator / deltaTime; //50% ?
+		//const float alpha = acumulator / deltaTime; //50% ?
 
 
 		window.clear();
